@@ -2,11 +2,11 @@
 
 ### Description:
 
-This project demonstrates the application of Polynomial Regression, a supervised learning technique, to predict price based on volume in financial markets. In the realm of regression analysis, this model offers a flexible approach to capturing non-linear relationships between variables, making it particularly valuable for scenarios where a simple linear model falls short.
+This project demonstrates the application of polynomial regression, a supervised learning technique, to predict salary based on position. The dataset includes position levels and corresponding salaries, and the goal is to build a regression model that captures the non-linear relationship between position levels and salaries.
 
 ### Objective:
 
-The primary goal of this project is to showcase how Polynomial Regression can be employed for predicting price movements based on volume data. By training the model on historical data, we aim to capture the nuanced relationships between trading volume and price fluctuations, providing insights that can be valuable for market analysis.
+The primary objective is to showcase the use of polynomial regression for predicting salaries, allowing for a more nuanced understanding of how position levels influence compensation. The model's performance is evaluated using the R2 score, providing a measure of its predictive accuracy.
 
 ### Key Features:
 
